@@ -3,9 +3,10 @@ title: "Security Shiba - Much Exploit, Wow"
 description: "Bork Bork Bork"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https:securityshiba.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+
 # User settings
 username: "Security Shiba"
-user_title: Lorem Ipsum - FrontEnd
+user_title: Security Shiba
 email: beepboopblog@gmail.com
 twitter_username: @SecurityShiba
 github_username:  securityshiba
