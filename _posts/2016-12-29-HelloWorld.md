@@ -12,6 +12,6 @@ categories:
 twitter_text: 'How to speak with Lorem'
 ---
 
-##Hello World!
+## Hello World!
 
 **Test post while I get setup...**
