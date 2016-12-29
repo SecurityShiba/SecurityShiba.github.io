@@ -1,15 +1,14 @@
 # Site settings
-title: "Security Shiba - Much Exploit, Wow"
-description: "Bork Bork Bork"
+title: Lorem Ipsum - Web Developer
+description: "A blog about lorem ipsum ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "https:securityshiba.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
-
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
-username: Security Shiba
-user_title: Security Shiba
-email: lorem@ipsum.com
-twitter_username: @SecurityShiba
-github_username:  securityshiba
+username: lorem ipsum
+user_title: Lorem Ipsum - FrontEnd
+email: lorem.lorem@ipsum.com
+twitter_username: loremipsum
+github_username:  loremipsum
 gplus_username:  loremipsum
 disqus_username: loremipsum
 
@@ -32,12 +31,12 @@ links:
     url: /
   - title: my posts
     url: /posts
+  - title: series
+    url: /series
   - title: tags
     url: /tags
   - title: about me
     url: /about
-  - title: series
-    url: /series
 # projects in header index
 projects:
   - name: asciilang
