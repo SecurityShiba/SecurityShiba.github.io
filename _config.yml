@@ -9,7 +9,8 @@ user_title: Lorem Ipsum - FrontEnd
 email: beepboopblog@gmail.com
 twitter_username: @SecurityShiba
 github_username:  securityshiba
-
+gplus_username:  loremipsum
+disqus_username: loremipsum
 
 # Build settings
 markdown: kramdown
@@ -34,6 +35,8 @@ links:
     url: /tags
   - title: about me
     url: /about
+  - title: series
+    url: /series
 # projects in header index
 projects:
   - name: asciilang
