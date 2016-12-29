@@ -5,9 +5,9 @@ baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https:securityshiba.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 
 # User settings
-username: "Security Shiba"
+username: Security Shiba
 user_title: Security Shiba
-email: beepboopblog@gmail.com
+email: lorem@ipsum.com
 twitter_username: @SecurityShiba
 github_username:  securityshiba
 gplus_username:  loremipsum
