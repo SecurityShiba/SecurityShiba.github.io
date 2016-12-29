@@ -5,10 +5,10 @@ baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: Security Shiba
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
+user_title: Packet Sniffer.
+email: beepboopblog@gmail.com
+twitter_username: @SecurityShiba
+github_username:  SecurityShiba
 gplus_username:  loremipsum
 disqus_username: loremipsum
 
