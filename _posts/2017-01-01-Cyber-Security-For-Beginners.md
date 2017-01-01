@@ -1,6 +1,7 @@
 If you are already interested in the Cyber Security field and want to make a start, you have come to the right place! Keep in mind that i'm approaching this from the perspective of a penetration tester. This post will help you if you are a student or wanting to make a career change into cyber security, and are ready to do the ground work to get your foot in the door.
 
 ***
+
 ## Disclaimer
 
 ### *Don't ever use hacking techniques for personal gain*
@@ -42,8 +43,6 @@ These are the four key areas:
 
 ## Cyber Security Knowledge
 
-#### Core Concepts:
-
 **The CIA triad**
 
 > *Confidentiality, integrity and availability, also known as the CIA triad, is a model designed to guide policies for information security within an organization.*
@@ -82,13 +81,13 @@ Armed with your new found OWASP knowledge, it is best to have a crack at a pract
 * https://www.pentesterlab.com/
 * http://www.dvwa.co.uk/
 
-####Networking:
+#### Networking:
 
 > 100-101 Interconnecting Cisco Networking Devices Part 1 (ICND1) is the exam associated with the CCENT certification and a tangible first step in achieving the CCNA Routing and Switching certification.
 
 * http://www.freeccnastudyguide.com/study-guides/icnd1-100-101/
 
-####Programming & Scripting:
+#### Programming & Scripting:
 
 * Check out the free courses avalible on [code academy](https://www.codecademy.com/) to teach yourself the programming basics. 
 * Windows batch scripting
@@ -97,28 +96,28 @@ Armed with your new found OWASP knowledge, it is best to have a crack at a pract
 * Linux bash scripting
 * That site that explains linux commands [this awesome site](http://explainshell.com/)
 
-##Your Portfolio
+## Your Portfolio
 
 Your portfolio should aim to showcase your technical knowledge and experience. This is what you bring to the table during the interview. At a minimum, you should aim to have one of the following listed below.
 
-####Github/BitBucket Account
+#### Github/BitBucket Account
 * Especailly handy if you are a developer making a change into cyber security.
 * Showcase your code/scripts/tools anything you have built.
 * Aim for atleast semi-regular contribution, you need something to show here.
 * Github pages are also an opportunity for free personal blogging.
 
-####Security Blog
+#### Security Blog
 * CTF write ups are the best thing you can put here.
 	* You can be a 1337 hacker, but if you can't write a report, you're not very hirable!
 * General posts about your opinion on recent vulnerabilities shows that you keep up to date.
 	* In security, you need to understand new vulnerabilities quickly so that you can test for them on the job.
 
-####Personal Website
+#### Personal Website
 * Keep it simple.
 * You can add a touch of personal flair in the design.
 * Great talking point, especially if you have created the site yourself.
 
-####Optional Accounts
+#### Optional Accounts
 
 * Bug Crowd - Security bug bounty program. This is for the more advanced security testers, but will get you brownie points if you are collecting bounties.
 * Code Academy Account - Show off your initiative and learning.
@@ -139,7 +138,7 @@ Security starts with social media. Public information out on the internet is fai
 
 Whoever is looking to hire you, will google you. I cannot stress this enough. If I discover your public facebook party album, tasteful or not, **you've already made your first impression with me.** 
 
-####Lockin' It Down
+#### Lockin' It Down
 
 > *When people google my name, what will they see first?  What would I want a potential employer to see? What would they expect to see?*
 
@@ -161,47 +160,51 @@ Privacy settings exist for a reason. Know them, use them. Tailor your profiles t
 4. Done!
 
 ****
-####*Lets get professional... professional*
+#### *Lets get professional... professional*
 
 > They are looking for a professional. Professionals still party (and boy do they), except a professional knows how to keep their work and play seperate online and offline.
 
-#####LinkedIn Profile
+##### LinkedIn Profile
 
 This is your platform from which you can launch your personal brand.
 In the beginning, I loved LinkedIn, however lately it has taken a bit of a dive. Don't fall into trap of liking memes, or trashy content - keep it relevant. Much of the "motivational" content taken at face value seems relevant, but is often factually incorrect.
 
 **Tips:**
+
 * Only conncet with people you have met in person.
 * Keep your profile relevant and up to date.
-* Like cotent that would add to your personal brand.
-Remember that when you post or like content, it adds it to your "recent activity" history.
+* Like content that would add to your personal brand.
+* Remember that when you post or like content, it adds it to your "recent activity" history.
 
-#####Twitter
+##### Twitter
 
 This is a security focused twitter, keep it seperate to your personal twitter. Its exceptionally handy for getting the latest news, and getting to know the who's who of cyber internationally.
 
-##Community Involvement
+## Community Involvement
 
 >*Get out there and get networking. Build your network. Get practice talking to people. Learn from others who work in the field.*
 
 The Cyber Security field is growing quickly, but the community is much smaller due to our specialised nature. Obviously this comes with its own advantages, disadvantages and challenges.
 
 **Pros:**
+
 * You can easily meet and chat to those who would be able to hire you on the spot.
 * You can easily stand out.
 * You'll quickly get to know everyone, and they'll know you too.
 
 **Cons:**
+
 * All of the above, if you make terrible first impressions.
 
 For making a start in the community, Meetup.com is your first port of call. Make an account and see what events are on offer. I've listed my top 3 recommended events to attend. Depending on how much time you have avaliable, you may not be able to all three every month. Pick your favouraite and run with it!
 
-####SecTalks
+#### SecTalks
 > A non-profit session for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff.
 
 I strongly recommend this meetup. With a positive community and a focus on understanding security challenges instead of simply solving them, this is an informative and beginner friendly forum. Talks on offer cater to newbies and more exprienced folk, so once you get the hang of the basics, there are challanges avaliable for you to grow your skills further.
 
 You'll find SecTalks meetups in:
+
 * Perth, Australia
 * Sydney, Australia
 * Brisbane, Australia
@@ -210,19 +213,20 @@ You'll find SecTalks meetups in:
 * Canberra, Australia
 * Adelaide, Australia
 
-####OWASP Security Meetup
+#### OWASP Security Meetup
 >The Open Web Application Security Project (OWASP) is a not-for-profit entity, that ensures the project's long-term success. Similar to many open-source software projects it is open to anyone interested in learning more about software security.
 
 OWASP provides you with an opportunity to learn and if you wish, contribute! If you believe you can commit, you'll have an opportunity to contribute to the development of materials. Settle in and see what projects or opportunities are on offer, and they'll work with you to see how you can help.
 
 OWASP has international chapters across the world. In humble Australia, you'll find them in:
+
 * Brisbane
 * Canberra
 * Melbourne
 * Perth
 * Sydney
 
-####Ruxmon
+#### Ruxmon
 
 > Established in April 2010, Ruxmon is a free monthly community event organised and run by the Ruxcon team. Currently there are monthly meetings running in Melbourne, Sydney, Canberra and Brisbane.
 
@@ -233,16 +237,16 @@ Each month two speakers from the local security community will share their knowl
 * Canberra
 * Brisbane
 
-##Industry Awareness
+## Industry Awareness
 
 Your job is understanding attack and defence, so you need to study who your attackers are, and start thinking about how you could defend your clients. That is why they hire you after all.
 
-####Changing Future
+#### Changing Future
 Have an opinion on the future of cyber security or technology in general. There are so many changes in this field that impact our daily lives. There is no 'right' answer, but its important to draw your theories from your awareness of IT today.
 
 It is also important to understand the key groups that are shaping and threats and changes of tomorrow. The topics i've listed below are a starting point for the more well known players in cyber security, but it is by no means exhaustive. Do some research and find something that interests you to bring something different to the interview.
 
-#####Threat Actors
+##### Threat Actors
 
 Know the key threat actors to all organisations. Generally they fall into 4 major groups:
 * **Hacktivits** - *Hacking for the lulz.*
@@ -250,7 +254,7 @@ Know the key threat actors to all organisations. Generally they fall into 4 majo
 * **"Lone wolf"** - *Guess what, i'm quitting. Annnnd i'm taking all this Intellectual Property with me.*
 * **Nation State** - *It reads like a Tom Clancy novel, except, its legit. (Check out Mandiant's APT1 Espionage Report)*
 
-#####Researchers
+##### Researchers
 As a starting point, check out these researchers and then explore the web to build your network.
 * Google's Project Zero Team
 * Tavis Ormandy
@@ -258,7 +262,7 @@ As a starting point, check out these researchers and then explore the web to bui
 * @thegrugq
 * @SecurityExpert 
 
-#####Conferences
+##### Conferences
 
 The cyber security conferences on offer range from grassroots movements in the security community, to internationally recognised events.
 
