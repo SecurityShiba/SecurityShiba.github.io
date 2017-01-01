@@ -41,7 +41,7 @@ These are the four key areas:
 * Community Involvement
 
 
-## Cyber Security Knowledge
+## Basic Cyber Security Knowledge
 
 **The CIA triad**
 
