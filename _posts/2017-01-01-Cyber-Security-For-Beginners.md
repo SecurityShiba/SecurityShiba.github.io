@@ -246,15 +246,16 @@ Have an opinion on the future of cyber security or technology in general. There 
 
 It is also important to understand the key groups that are shaping and threats and changes of tomorrow. The topics i've listed below are a starting point for the more well known players in cyber security, but it is by no means exhaustive. Do some research and find something that interests you to bring something different to the interview.
 
-##### Threat Actors
+#### Threat Actors
 
 Know the key threat actors to all organisations. Generally they fall into 4 major groups:
+
 * **Hacktivits** - *Hacking for the lulz.*
 * **Organised Crime** - *Well organised, groups of criminals.*
 * **"Lone wolf"** - *Guess what, i'm quitting. Annnnd i'm taking all this Intellectual Property with me.*
 * **Nation State** - *It reads like a Tom Clancy novel, except, its legit. (Check out Mandiant's APT1 Espionage Report)*
 
-##### Researchers
+#### Researchers
 As a starting point, check out these researchers and then explore the web to build your network.
 * Google's Project Zero Team
 * Tavis Ormandy
@@ -262,7 +263,7 @@ As a starting point, check out these researchers and then explore the web to bui
 * @thegrugq
 * @SecurityExpert 
 
-##### Conferences
+#### Conferences
 
 The cyber security conferences on offer range from grassroots movements in the security community, to internationally recognised events.
 
@@ -276,7 +277,7 @@ The cyber security conferences on offer range from grassroots movements in the s
 
 If you are a student, reach out to the organisers of these conferences. Often you will be able to recieve tickets at a reduced price, or even attend for free!
 
-## Conslusion
+## Wrapping it up
 
 I'm not going to tell you how to interview, there are thousands of resources on the internet about that already. But hopefully now you have a decent starting point and future direction. There is a lot here in this post, start googling and you'll uncover more cool stuff to help you on your Cyber Security journey.
 
