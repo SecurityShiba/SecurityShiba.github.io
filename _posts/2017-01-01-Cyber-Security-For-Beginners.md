@@ -159,15 +159,13 @@ Privacy settings exist for a reason. Know them, use them. Tailor your profiles t
 	 * Close down any old accounts you don't use anymore
 4. Done!
 
-****
-#### *Lets get professional... professional*
+## *Lets get professional... professional*
 
-> They are looking for a professional. Professionals still party (and boy do they), except a professional knows how to keep their work and play seperate online and offline.
+> Employers are looking for a professional. Professionals still party (and boy do they), except a professional knows how to keep their work and play seperate online and offline.
 
-##### LinkedIn Profile
+#### LinkedIn Profile
 
-This is your platform from which you can launch your personal brand.
-In the beginning, I loved LinkedIn, however lately it has taken a bit of a dive. Don't fall into trap of liking memes, or trashy content - keep it relevant. Much of the "motivational" content taken at face value seems relevant, but is often factually incorrect.
+This is your platform from which you can launch your personal brand. In the beginning, I loved LinkedIn, however lately it has taken a bit of a dive. Don't fall into trap of liking memes, or trashy content - keep it relevant. Much of the "motivational" content taken at face value seems relevant, but is often factually incorrect.
 
 **Tips:**
 
@@ -176,7 +174,7 @@ In the beginning, I loved LinkedIn, however lately it has taken a bit of a dive.
 * Like content that would add to your personal brand.
 * Remember that when you post or like content, it adds it to your "recent activity" history.
 
-##### Twitter
+#### Twitter
 
 This is a security focused twitter, keep it seperate to your personal twitter. Its exceptionally handy for getting the latest news, and getting to know the who's who of cyber internationally.
 
