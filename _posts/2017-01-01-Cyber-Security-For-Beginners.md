@@ -256,7 +256,7 @@ Know the key threat actors to all organisations. Generally they fall into 4 majo
 * **Nation State** - *It reads like a Tom Clancy novel, except, its legit. (Check out Mandiant's APT1 Espionage Report)*
 
 #### Researchers
-As a starting point, check out these researchers and then explore the web to build your network.
+As a starting point, check out these researchers and then explore the web to build your network:
 
 * Google's Project Zero Team
 * Tavis Ormandy
