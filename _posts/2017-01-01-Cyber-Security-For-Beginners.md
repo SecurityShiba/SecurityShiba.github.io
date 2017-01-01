@@ -65,7 +65,7 @@ Currently the University of NSW offers a *free* course in cyber security as a pa
 
 * https://www.openlearning.com/courses/sec
 
-Hacker highschool also has some great materials that covers the basic core concepts and technologies. Don't be afraid to brush up if you need to, getting comfortable with the basics is key.
+Hacker highschool also has some great materials that covers the very basic core concepts and technologies. Don't be afraid to brush up if you need to, understanding basic concepts is key to building a strong foundation to grow your skills.
 
 * http://www.hackerhighschool.org/lessons.html
 
