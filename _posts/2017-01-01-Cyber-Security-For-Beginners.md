@@ -108,7 +108,7 @@ Your portfolio should aim to showcase your technical knowledge and experience. T
 
 #### Security Blog
 * CTF write ups are the best thing you can put here.
-	* You can be a 1337 hacker, but if you can't write a report, you're not very hirable!
+	* You can be a 1337 hacker, but if you can't write a report, you're not very hireable!
 * General posts about your opinion on recent vulnerabilities shows that you keep up to date.
 	* In security, you need to understand new vulnerabilities quickly so that you can test for them on the job.
 
@@ -250,13 +250,14 @@ It is also important to understand the key groups that are shaping and threats a
 
 Know the key threat actors to all organisations. Generally they fall into 4 major groups:
 
-* **Hacktivits** - *Hacking for the lulz.*
+* **Hacktivists** - *Hacking for the lulz.*
 * **Organised Crime** - *Well organised, groups of criminals.*
 * **"Lone wolf"** - *Guess what, i'm quitting. Annnnd i'm taking all this Intellectual Property with me.*
 * **Nation State** - *It reads like a Tom Clancy novel, except, its legit. (Check out Mandiant's APT1 Espionage Report)*
 
 #### Researchers
 As a starting point, check out these researchers and then explore the web to build your network.
+
 * Google's Project Zero Team
 * Tavis Ormandy
 * @asher_wolf
