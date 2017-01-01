@@ -51,7 +51,7 @@ Understanding the CIA triad is key to relating your super awesome SQL injection 
 
 **People**
 
-People are a part of the system. They are also the #1 security weakness in any organisation and your #1 customer. They pay for you to test their systems and provide guidance on how they can improve their security posture. The main point to remember is that you are going to use your professional skills and knowledge to indentify their wekanesses, and then communicate this to them in a way that is easy for them to understand. When you write a report and you have moved on to other work, they should still be able to read it and understand:
+People are a part of the system. They are also the #1 security weakness in any organisation and your #1 customer. They pay for you to test their systems and provide guidance on how they can improve their security posture. The main point to remember is that you are going to use your professional skills and knowledge to indentify their wekanesses, and then communicate this to them in a way that is easy for them to understand. When you write a report and provide it to the client, once you have moved on, they should still be able to read it and understand:
 
 * What their weaknesses are
 * Why they should care about them, and
