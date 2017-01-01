@@ -1,19 +1,16 @@
-  #Cyber Security For Beginners
-
 If you are already interested in the Cyber Security field and want to make a start, you have come to the right place! Keep in mind that i'm approaching this from the perspective of a penetration tester. This post will help you if you are a student or wanting to make a career change into cyber security, and are ready to do the ground work to get your foot in the door.
 
 ***
-##Disclaimer
+## Disclaimer
 
 ### *Don't ever use hacking techniques for personal gain*
 * Never hack systems without explicit written permission, and even then think carefully about whether what you are targeting is appropriate. During an internship early in my career, I was offered the opportunity to "poke around within the company system(s) to see what I could find". With the knowledge I have now, I am thankful that I refused. Even an experienced penetration tester can easily bring down a company's IT systems. If a system goes down you could be liable for damages, or depending on the system, put lives at risk.
-* ** *There are many extremely talented hackers who are in jail, which is a waste of their talent. Hacking for malicious intent, or for personal gain, means that no company can trust you enough to hire you. Trust is fundamental to the security team and the services they provide - break this trust and you will never work in the security industry again.* **
+* **There are many extremely talented hackers who are in jail, which is a waste of their talent. Hacking for malicious intent, or for personal gain, means that no company can trust you enough to hire you. Trust is fundamental to the security team and the services they provide - break this trust and you will never work in the security industry again.**
 
 ***
 
-[TOC]
 
-##Real Talk
+## Real Talk
 
 Many people who work in cyber security come from unique and different careers or backgrounds. Some start as developers, sysadmins or network technicians. Others come from hospitality, government and even from the army. Some of the best people I know in the field *don't even have a university degree*. Not everyone takes the standard path when entering a field, and cyber security is no exception. The one thing that they all have in common is hardwork and tenacity - they didn't give up to pursue what they loved. You can also make your passion a relatity, and have fun getting there. This post aims to give you a head start.
 
@@ -21,7 +18,7 @@ There is some pre-requisquite knowledge required before you will be ready to app
 
 Don't get hung up on trying to know all concepts right away. You don't need to be a walking encyclopedia, but you do need to know the basics. Combine this with a passion for learning, problem solving and the tenacity to try harder and you will go far in this field.
 
-###First you get da monies
+### First you get da monies
 
 Your objective is to land a cyber security job. To do this, most potential employers want to see two things: that you are passionate, and that you have something to show for it. Whether its at a meetup event or job interview, when you talk to them, they are sizing you up thinking:
 * Is this person a good investment?
@@ -43,9 +40,9 @@ These are the four key areas:
 * Community Involvement
 
 
-##Cyber Security Knowledge
+## Cyber Security Knowledge
 
-####Core Concepts:
+#### Core Concepts:
 
 **The CIA triad**
 
