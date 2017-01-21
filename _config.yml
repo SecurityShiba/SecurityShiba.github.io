@@ -39,6 +39,6 @@ links:
 # projects in header index
 projects:
   - name: test
-    url: https://github.com/
+    url: https://github.com/SecurityShiba/
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
