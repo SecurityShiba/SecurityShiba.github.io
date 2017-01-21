@@ -33,8 +33,12 @@ links:
     url: /posts
   - title: about me
     url: /about
+  - title: series
+    url: /series
 # If I use the series or tags in my posts, I will restore these two menu links
 # projects in header index
-# I'll add projects later
+CTFs Writeups:
+  - name: test
+    url: https://github.com/
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
