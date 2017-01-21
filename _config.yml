@@ -37,8 +37,8 @@ links:
     url: /series
 # If I use the series or tags in my posts, I will restore these two menu links
 # projects in header index
-projects:
-  - name: test
-    url: https://github.com/SecurityShiba/
+#projects:
+#  - name: <specific CTF name goes here>
+#    url: https://github.com/SecurityShiba/<specific CTF repo>
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
