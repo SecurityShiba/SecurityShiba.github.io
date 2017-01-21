@@ -37,7 +37,7 @@ links:
     url: /series
 # If I use the series or tags in my posts, I will restore these two menu links
 # projects in header index
-CTFs Writeups:
+projects:
   - name: test
     url: https://github.com/
 # exclude my node related stuff
