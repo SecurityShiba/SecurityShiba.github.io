@@ -12,6 +12,9 @@ github_username:  SecurityShiba
 gplus_username:  loremipsum
 disqus_username: loremipsum
 
+gems:
+  - jekyll-seo-tag
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
