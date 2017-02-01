@@ -1,5 +1,3 @@
-# Network Attack - HSRP? More Like Easy Peasy
-
 In learning about network penetration testing, HSRP is one of the more common vulnerabilities that is quick and easy to identify on a target network. Don't overlook HSRP on your network penetration tests, as more often than not, it is using the default configuration *(spoiler: the default password is 'cisco')* making it a quick win vulnerability.
 
 ## What is HSRP?
