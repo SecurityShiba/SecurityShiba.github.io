@@ -36,7 +36,7 @@ Overall HSRP is **not** [a secure protocol](http://www.securiteam.com/exploits/5
 * Denial of Service (DoS)
 * Hashing Weakness
 
-####Man In The Middle (MITM)
+#### Man In The Middle (MITM)
 
 When two parties communicate with each other over a network, there is a trusted relationship where they believe they are communicating directly with each other. A MITM attack exploits this trust by relaying communications between the two parties through the attacking machine, allowing the attacker to eavesdrop on all communications.
 
@@ -45,7 +45,7 @@ First, an attacker would need access to the physical LAN to capture traffic to v
 > If the password is [very weak](http://www.computerworld.com/article/3024404/security/worst-most-common-passwords-for-the-last-5-years.html), you've also got the beginnings of a weak credentials vulnerability! Use the credentials that you find to support your bruteforcing and/or scanning of the further network. When password re-use is common throughout the network infrastructure, you will very quickly own all of the infrastructure that uses it.
 
 
-####Denial Of Service (DoS)
+#### Denial Of Service (DoS)
 
 > **Note: It should go without saying that exploiting a Denial Of Service (DoS) vulnerability during a penetration test should be avoided due to its destructive nature - exploit at your own risk.**
 
@@ -56,7 +56,7 @@ Once an attacker has spoofed a valid HSRP session, they could change a variety o
 * Change the priority level of devices, and can cause devices to ["fight" for priority.](http://seclists.org/bugtraq/2001/May/34)
 * Route all traffic through a specific host. If the target host is not equipped to recieve such a high rate of traffic, you may not only bring it down, but potentiall damage the hardware as well.
 
-####Hashing Weakness
+#### Hashing Weakness
 
 In an attempt to improve authentication, Cisco implemented the ability to configure HRSP to hash passwords using MD5, which if you don't already know, [is totally super secure](http://security.stackexchange.com/questions/52461/how-weak-is-md5-as-a-password-hashing-function). The password cracking tool John The Ripper has added support to assist you in [cracking HSRP MD5 authentication](http://www.openwall.com/lists/john-users/2014/09/02/1) if you encounter it.
 
