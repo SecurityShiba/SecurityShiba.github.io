@@ -153,11 +153,3 @@ Here are the references i've linked throughout my post, happy reading.
 2. http://hakipedia.com/index.php/HSRP_Manipulation#Mitigation
 
 
-
-
-
-
-
-
-
-
