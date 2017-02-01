@@ -150,5 +150,3 @@ Here are the references i've linked throughout my post, happy reading.
 1. http://www.securiteam.com/exploits/5CP051F4AK.html
 2. http://hakipedia.com/index.php/HSRP_Manipulation#Mitigation
 
-
-
