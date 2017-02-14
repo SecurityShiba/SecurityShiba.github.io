@@ -44,6 +44,7 @@ First, an attacker would need access to the physical LAN to capture traffic to v
 
 > If the password is [very weak](http://www.computerworld.com/article/3024404/security/worst-most-common-passwords-for-the-last-5-years.html), you've also got the beginnings of a weak credentials vulnerability! Use the credentials that you find to support your bruteforcing and/or scanning of the further network. When password re-use is common throughout the network infrastructure, you will very quickly own all of the infrastructure that uses it.
 
+Once you have crafted your HSRP packets to set your attacking machine as the active router with a higher priority, you will become the active router and all network traffic will now be routed through your machine. 
 
 #### Denial Of Service (DoS)
 
@@ -129,12 +130,14 @@ Here are the references i've linked throughout my post, happy reading.
 11. http://www.networksorcery.com/enp/protocol/hsrp.htm
 
 *Known Vulnerabilities*
+
 1. http://www.securiteam.com/exploits/5CP051F4AK.html
 2. http://www.computerworld.com/article/3024404/security/worst-most-common-passwords-for-the-last-5-years.html
 3. http://security.stackexchange.com/questions/52461/how-weak-is-md5-as-a-password-hashing-function
 4. http://www.openwall.com/lists/john-users/2014/09/02/1
 
 *Exploitation*
+
 1. https://www.wireshark.org/docs/dfref/h/hsrp.html
 2. https://nmap.org/nsedoc/scripts/broadcast-listener.html
 3. http://tools.kali.org/vulnerability-analysis/yersinia
@@ -147,6 +150,7 @@ Here are the references i've linked throughout my post, happy reading.
 10. http://packetlife.net/blog/2008/oct/27/hijacking-hsrp/
 
 *Remediation*
+
 1. http://www.securiteam.com/exploits/5CP051F4AK.html
 2. http://hakipedia.com/index.php/HSRP_Manipulation#Mitigation
 
