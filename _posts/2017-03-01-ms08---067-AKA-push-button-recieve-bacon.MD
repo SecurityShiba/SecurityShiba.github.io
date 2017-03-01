@@ -2,9 +2,7 @@
 
 On October 23rd, 2008 Microsoft released a Security Bulletin about a new vulnerability affecting the server service that could allow for Remote Code Execution. Remote code execution is a severe vulnerability, as it allows you to run your own code on the target, and often provides local administrator privileges as a result. On any penetration test, achieving total ownership of a host provides the initial foothold to gaining Domain Administrator access over the network.
 
-<img src="https://github.com/SecurityShiba/SecurityShiba.github.io/blob/master/assets/img/Screen%2BShot%2B2014-01-30%2Bat%2B11.25.35%2BAM.png">
-
-*This infographic from [Rapid7](https://community.rapid7.com/community/infosec/blog/2014/02/03/new-ms08-067) explains the naming convention on a Microsoft security bulletin. Check out the link for a brief intoduction to the official windows regular patch release known as 'Patch-Tuesday'.*
+> The infographic from [Rapid7](https://community.rapid7.com/community/infosec/blog/2014/02/03/new-ms08-067) explains the naming convention on a Microsoft security bulletin. Check out the link for a brief intoduction to the official windows regular patch release known as 'Patch-Tuesday'.
 
 This is one of the most well known vulnerabilities within the security community, due to its ease of exploitation and prevalence across multiple versions of windows operating systems (from windows 2000 to Windows 7 Pre-Beta). It is often the first exploit a new penetration tester learns when attacking a windows machine. Once exploited, it provides the highest level of privaleges on a local system, known as `NT AUTHORITY\SYSTEM`. 
 
@@ -105,7 +103,7 @@ From your Nmap scanning, you should have the IP of your target host, and have an
 4. Enter `options` to list the options required for exploitation
 5. Set your target machine `set RHOST 192.168.143.138`
 
-** Prepare your payload**
+**Prepare your payload**
 
 1. You can use the `show payloads` command to list the compatible payloads for your choosen exploit.
 2. In this example, we will use the reverse meterpreter tcp shell, enter `set PAYLOAD windows/shell/reverse_tcp`
@@ -126,11 +124,6 @@ One problem is that to practice exploiting MS08_067, you will need to purchase a
 ## Is it really that bad?
 
 If MS08-067 was a child, it would be over 8 years years old by now. It is so easy to exploit and provides such privaleged access to a host, that you would think it would be extremely rare to discover in businesses today. I am dissapointed to write that I am still extremely discovering MS08-067 on my penetration tests to date. Yes, thats right, i'm dissaponted. You might be thinking *"But why are you complaining - that makes your job SO easy!"* and I would agree on face value, that yes it does make my job easy. Waltz in, exploit like a bawse, write an easy report and swagger on my way - *because you just pwned them.*
-
-
-<img src="https://github.com/SecurityShiba/SecurityShiba.github.io/blob/master/assets/img/Push-button-receive-bacon.png">
-
-*A simple diagram outling the steps in exploiting MS08-067*
 
 If clients are struggling with MS08-067 in 2017, its safe to say that if I come back in a years time, it will still be there. There is very little challenge in that, as it is boring to exploit the same or similar vulnerabilities that are just too easy. You don't get outside of your confort zone and learn something new - instead you get complacent and stagnate. Seeking challenges in security is a part of the learning process, and a good penetration tester should crave this.
 
