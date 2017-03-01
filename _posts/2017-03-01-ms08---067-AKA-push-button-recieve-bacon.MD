@@ -2,7 +2,7 @@
 
 On October 23rd, 2008 Microsoft released a Security Bulletin about a new vulnerability affecting the server service that could allow for Remote Code Execution. Remote code execution is a severe vulnerability, as it allows you to run your own code on the target, and often provides local administrator privileges as a result. On any penetration test, achieving total ownership of a host provides the initial foothold to gaining Domain Administrator access over the network.
 
-> The infographic from [Rapid7](https://community.rapid7.com/community/infosec/blog/2014/02/03/new-ms08-067) explains the naming convention on a Microsoft security bulletin. Check out the link for a brief intoduction to the official windows regular patch release known as 'Patch-Tuesday'.
+> This infographic from [Rapid7](https://community.rapid7.com/community/infosec/blog/2014/02/03/new-ms08-067) explains the naming convention on a Microsoft security bulletin. Check out the link for a brief intoduction to the official windows regular patch release known as 'Patch-Tuesday'.
 
 This is one of the most well known vulnerabilities within the security community, due to its ease of exploitation and prevalence across multiple versions of windows operating systems (from windows 2000 to Windows 7 Pre-Beta). It is often the first exploit a new penetration tester learns when attacking a windows machine. Once exploited, it provides the highest level of privaleges on a local system, known as `NT AUTHORITY\SYSTEM`. 
 
