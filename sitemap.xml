@@ -8,7 +8,7 @@ layout: null
 		<loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
 	  </url>
 	{% endfor %}
-	{% for ctf in site.ctf %}
+	{% for ctf in site.ctfs %}
 	  <url>
 		<loc>{{ ctf.url | prepend: site.baseurl | prepend: site.url }}</loc>
 	  </url>
