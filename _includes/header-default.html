@@ -37,9 +37,9 @@
         </ul>
        <ul class="recent">
             <p>Recent CTFs:</p>
-             {% for project in site.projects limit:3%}
+             {% for ctf in site.ctf limit:3%}
             <li>
-                <a href="{{ project.url}}">
+                <a href="{{ ctf.url | prepend: site.baseurl }}">
                     <h2 class="post-title" itemprop="name">{{ project.name }}</h2>
                 </a>
             </li>
