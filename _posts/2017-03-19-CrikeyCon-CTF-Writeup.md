@@ -115,14 +115,15 @@ import random
 # v0.3 - The release version will be much better
 # Updated flag: flag{h1d3_0n_p@steb1n}
 ```
-flag{h1d3_0n_p@steb1n}
-
 ### Craptolocker 3 - 400pts
 ```
 The 3rd step is to create a decryption program by reversing the encryption routines in the source code. I have attached one of the encrypted files for you to test your decryption.
 The flag is contained in the decrypted file.
 ```
-Check out
+Check out `lockit.py` for the problem code, and `unlockit.py` for my solution code on my github.
+```
+Congrats! You found it. flag{d3cr@pt03d_n0_b!tc0!n_4_y3ws}
+```
 
 ### Craptolocker 4 - 500pts
 ```
@@ -184,7 +185,7 @@ Some googling leads me to a [great resource](https://infocon.org/cons/CrikeyCon/
 
 Looks like it was Michael Gianarakis presenting his 'iOS Runtime Hacking Crash Course' @ 3:30.
 ```
-flag: Gianarakis
+Flag: Gianarakis
 ```
 ### Captain Crunch
 ```
@@ -274,13 +275,14 @@ Flag: nsa
 How come Mimikatz didn't find this one? Crack Me! - flag{5ac75b186b060b343ef4cf6467667e8f}
 
 Popped this into https://hashes.org/search.php which gave me the answer
-
+```
 password123456
+```
 However I was still interested to find out what type of hash this was. If you pop this into https://crackstation.net/ it tells you  that is was an NTLM hash.
-
+```
 Hash	Type	Result
 5ac75b186b060b343ef4cf6467667e8f	NTLM	password123456
-
+```
 ### Hash 6 - 100pts
 ```
 Crack Me! - See attached files
@@ -339,7 +341,7 @@ Use the "--show" option to display all of the cracked passwords reliably
 Session completed
 
 ```
-Once complete, we can see that user1 had the password "football".
+Once complete, we can see that user1 had the password `football`.
 ```
 Flag{football}
 ```
