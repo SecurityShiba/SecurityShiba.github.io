@@ -11,6 +11,7 @@ twitter_username: "@SecurityShiba"
 github_username:  SecurityShiba
 gplus_username:  loremipsum
 disqus_username: loremipsum
+GA_code: "UA-96337114-1"
 
 gems:
   - jekyll-seo-tag
